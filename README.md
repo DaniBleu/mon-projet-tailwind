@@ -63,7 +63,7 @@ Un projet React + Tailwind CSS 🚀
 # Cloner le projet
 git clone https://github.com/ton-utilisateur/mon-projet-tailwind.git
 
-# Aller dans le dossier
+# Aller dans le dossier 
 cd mon-projet-tailwind
 
 # Installer les dépendances
